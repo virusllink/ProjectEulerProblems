@@ -1,0 +1,15 @@
+J:\ProjectEulerProblems\Problem21\Problem21\Problem21\bin\Debug\net6.0\Problem21.exe
+J:\ProjectEulerProblems\Problem21\Problem21\Problem21\bin\Debug\net6.0\Problem21.deps.json
+J:\ProjectEulerProblems\Problem21\Problem21\Problem21\bin\Debug\net6.0\Problem21.runtimeconfig.json
+J:\ProjectEulerProblems\Problem21\Problem21\Problem21\bin\Debug\net6.0\Problem21.dll
+J:\ProjectEulerProblems\Problem21\Problem21\Problem21\bin\Debug\net6.0\Problem21.pdb
+J:\ProjectEulerProblems\Problem21\Problem21\Problem21\obj\Debug\net6.0\Problem21.csproj.AssemblyReference.cache
+J:\ProjectEulerProblems\Problem21\Problem21\Problem21\obj\Debug\net6.0\Problem21.GeneratedMSBuildEditorConfig.editorconfig
+J:\ProjectEulerProblems\Problem21\Problem21\Problem21\obj\Debug\net6.0\Problem21.AssemblyInfoInputs.cache
+J:\ProjectEulerProblems\Problem21\Problem21\Problem21\obj\Debug\net6.0\Problem21.AssemblyInfo.cs
+J:\ProjectEulerProblems\Problem21\Problem21\Problem21\obj\Debug\net6.0\Problem21.csproj.CoreCompileInputs.cache
+J:\ProjectEulerProblems\Problem21\Problem21\Problem21\obj\Debug\net6.0\Problem21.dll
+J:\ProjectEulerProblems\Problem21\Problem21\Problem21\obj\Debug\net6.0\refint\Problem21.dll
+J:\ProjectEulerProblems\Problem21\Problem21\Problem21\obj\Debug\net6.0\Problem21.pdb
+J:\ProjectEulerProblems\Problem21\Problem21\Problem21\obj\Debug\net6.0\Problem21.genruntimeconfig.cache
+J:\ProjectEulerProblems\Problem21\Problem21\Problem21\obj\Debug\net6.0\ref\Problem21.dll
